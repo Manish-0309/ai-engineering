@@ -29,3 +29,9 @@ Tracking AI Engineering Learning
 - **Loops**: for and while loops for repetitive tasks
 - **Loop Control**: break, continue, and pass statements
 
+# Day 2 - Data Structures
+
+## List
+
+### Topics Covered
+- **List**: list basics, list methods, list slicing, enumerate(), len(), list comprehension
